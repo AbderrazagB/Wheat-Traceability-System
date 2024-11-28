@@ -1,0 +1,35 @@
+[
+  {
+    "id": 3,
+    "email": "user1@example.com",
+    "password": "user1password",
+    "address": "0xabcdef1234567890abcdef1234567890abcdef12",
+    "fullName": "Mohamed",
+    "licensePlate": "1234 Tunis 56",
+    "number": "11111111",
+    "isAdded": false,
+    "capacity": 500
+  },
+  {
+    "id": 2,
+    "email": "user2@example.com",
+    "fullName": "Iyed",
+    "password": "user2password",
+    "address": "0x9876543210987654321098765432109876543210",
+    "licensePlate": "5678 Tunis 90",
+    "number": "22222222",
+    "isAdded": false,
+    "capacity": 500
+  },
+  {
+    "id": 1,
+    "email": "user3@example.com",
+    "fullName": "Abderrazzag",
+    "password": "user3password",
+    "address": "0x1122334455667788990011223344556677889900",
+    "licensePlate": "9012 Tunis 34",
+    "number": "33333333",
+    "isAdded": false,
+    "capacity": 500
+  }
+]

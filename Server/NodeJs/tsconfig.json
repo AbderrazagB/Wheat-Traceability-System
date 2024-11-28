@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "preserveConstEnums": true,
+    "strict": true,
+    "target": "esnext",
+    "module": "esnext",
+    "rootDir": "./",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "downlevelIteration": true,
+      "allowJs": true,
+      "checkJs": false
+  }
+  ,
+  "ts-node": {
+    "experimentalSpecifierResolution": "node",
+    "transpileOnly": true,
+    "esm": true,
+  }
+}

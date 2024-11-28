@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "email": "farmer1@example.com",
+    "password": "farmer1password",
+    "address": "0xabcdef1234567890abcdef1234567890abcdef12",
+    "fullName": "علي بن محمد",
+    "number": "11111111",
+    "location": "Gabes",
+    "isAdded": true
+  },
+  {
+    "id": 1,
+    "email": "farmer2@example.com",
+    "password": "farmer2password",
+    "address": "0x9876543210987654321098765432109876543210",
+    "fullName": "فاطمة الزهراء بنت محمد",
+    "number": "22222222",
+    "location": "Sfax",
+    "isAdded": true
+  },
+  {
+    "id": 2,
+    "email": "farmer3@example.com",
+    "password": "farmer3password",
+    "address": "0x1122334455667788990011223344556677889900",
+    "fullName": "محمد بن علي",
+    "number": "33333333",
+    "location": "Tunis",
+    "isAdded": false
+  }
+]

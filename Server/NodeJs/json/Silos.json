@@ -1,0 +1,29 @@
+[
+  {
+    "id": 0,
+    "email": "user1@example.com",
+    "password": "user1password",
+    "address": "0xabcdef1234567890abcdef1234567890abcdef12",
+    "location": "[36.8065, 10.1815]",
+    "capacity": 5000,
+    "isAdded": false
+  },
+  {
+    "id": 1,
+    "email": "user2@example.com",
+    "password": "user2password",
+    "address": "0x9876543210987654321098765432109876543210",
+    "location": "[34.7326, 10.3904]",
+    "capacity": 8000,
+    "isAdded": false
+  },
+  {
+    "id": 2,
+    "email": "user3@example.com",
+    "password": "user3password",
+    "address": "0x1122334455667788990011223344556677889900",
+    "location": "[35.8252, 10.637]",
+    "capacity": 6000,
+    "isAdded": false
+  }
+]

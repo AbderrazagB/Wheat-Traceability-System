@@ -1,0 +1,38 @@
+{
+  "name": "veramo-node-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.12.2",
+    "@veramo/core": "^5.6.0",
+    "@veramo/credential-w3c": "^6.0.0",
+    "@veramo/data-store": "^5.6.0",
+    "@veramo/did-manager": "^5.6.0",
+    "@veramo/did-provider-ethr": "^5.6.0",
+    "@veramo/did-provider-web": "^5.1.2",
+    "@veramo/did-resolver": "^5.6.0",
+    "@veramo/key-manager": "^5.6.0",
+    "@veramo/kms-local": "^5.6.0",
+    "cors": "^2.8.5",
+    "did-resolver": "^4.1.0",
+    "dotenv": "^16.4.5",
+    "ethr-did-resolver": "^10.1.5",
+    "express": "^4.19.2",
+    "mailgen": "^2.0.28",
+    "nodemailer": "^6.9.13",
+    "path": "^0.12.7",
+    "sqlite3": "^5.1.7",
+    "typeorm": "^0.3.20",
+    "veramo": "^1.0.0",
+    "web-did-resolver": "^2.0.27",
+    "web3": "^4.8.0"
+  },
+  "type": "module"
+}
